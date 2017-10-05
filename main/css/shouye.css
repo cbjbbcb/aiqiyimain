@@ -2,7 +2,10 @@
 	margin: 0;
 	padding: 0;
 }
-
+.nav1_container{
+	margin: 0 auto;
+	width: 1364px;
+}
 .a {
 	width: 1364px;
 	height: 70px;

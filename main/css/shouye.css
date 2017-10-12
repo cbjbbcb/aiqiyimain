@@ -2,10 +2,12 @@
 	margin: 0;
 	padding: 0;
 }
-.nav1_container{
+
+.nav1_container {
 	margin: 0 auto;
 	width: 1364px;
 }
+
 .a {
 	width: 1364px;
 	height: 70px;
@@ -186,6 +188,7 @@
 	position: fixed;
 	top: 0;
 	display: none;
+	z-index: 900;
 }
 
 .select {
